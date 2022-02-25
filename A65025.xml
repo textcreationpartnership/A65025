@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the apostolick and primative manner of baptizing by immersion in a letter to Mr. George Keith : with remarks upon a second friendly epistle written to him / from one who stiles himself Trepidantium Malleus.</title>
+            <author>Trepidantium Malleus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65025</idno>
+            <idno type="STC">Wing V495</idno>
+            <idno type="STC">ESTC R22686</idno>
+            <idno type="EEBO-CITATION">12621970</idno>
+            <idno type="OCLC">ocm 12621970</idno>
+            <idno type="VID">64545</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65025)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64545)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 969:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the apostolick and primative manner of baptizing by immersion in a letter to Mr. George Keith : with remarks upon a second friendly epistle written to him / from one who stiles himself Trepidantium Malleus.</title>
+                  <author>Trepidantium Malleus.</author>
+               </titleStmt>
+               <extent>31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Walwyn ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Errata: p. 31.</note>
+                  <note>Advertisement: p. [1] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716.</term>
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64545:1"/>
+            <pb facs="tcp:64545:1" rendition="simple:additions"/>
+            <p>A VINDICATION OF THE <hi>Apoſtolick</hi> and <hi>Primitive Manner</hi> OF BAPTIZING BY <hi>Immerſion.</hi>
+            </p>
+            <p>IN A Letter to Mr. <hi>George Keith:</hi> WITH Remarks upon a Second Friendly Epiſtle, Written to him, from one who Stiles himſelf <hi>Trepidantium Malleus.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Walwyn,</hi> at the Three <hi>Leggs</hi> in the <hi>Poultry,</hi> at the End of the <hi>Old-Jury,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:64545:2"/>
+            <pb n="3" facs="tcp:64545:2"/>
+            <opener>
+               <salute>Mr. <hi>Keith,</hi>
+               </salute>
+            </opener>
+            <p>YOU have very commendably diſengag'd your ſelf from many Prejudices in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn<g ref="char:EOLhyphen"/>cation and Intereſt, to make an Impartial Enquiry into the True Principles of <hi>Chriſtian Religion;</hi> but you muſt expect the ſame Diſcouragements for ſo doing, that every honeſt Enquirer before you, has met withal. Your Old Friends will reproach you with <hi>Apoſtacy,</hi> and your New Ones, if you be not well aware, will make you an <hi>Apoſtate</hi> from Truth. The ſeveral Zealots from all Quarters fill your Ears with, <hi>Lo! here is Truth,</hi> and Sing <hi>Loud Hoſannah</hi>'s <hi>to their ſeveral Syſtems;</hi> but I hope you are ſo good and ſo wiſe a Man, as to believe 'em at your leiſure. Your hav<g ref="char:EOLhyphen"/>ing been impoſed upon already, ought to make you wary and cautious in giving your Aſſent for the future; and I am ſure you cannot juſtifie it to your own Underſtanding, if you too <hi>haſtily engage</hi> in any <hi>Religious Communion amongſt us.</hi> You have ſeen enough of Fair Pretence to Truth and Good<g ref="char:EOLhyphen"/>neſs, ſo as not to be readily drawn in by a <hi>Specious Appearance. Believe not every Spirit,</hi> is a Divine <hi>Ora<g ref="char:EOLhyphen"/>cle,</hi> and you had never greater reaſon to regard it than <hi>now,</hi> when every Party aims at making you their <hi>Proſelyte.</hi> You do well to hear, and examine what they ſay, but your Prudence will Inſtruct you
+<pb n="4" facs="tcp:64545:3"/>to conſider whom you take for your Guide. Give me leave as your Friend to put you only in mind of the Men of whom you ought to beware.</p>
+            <p>
+               <hi>Firſt,</hi> I think you ought to beware of the Court<g ref="char:EOLhyphen"/>ſhip and Diſcourſes of the Men of mighty Preten<g ref="char:EOLhyphen"/>ces and Confidence, who <hi>talk over</hi> all their <hi>Scheme</hi> in <hi>Religion,</hi> with the ſame <hi>Aſſurance</hi> as if they had <hi>Immediate Inſpiration;</hi> nay, if you can have Faith to believe 'em, they won't fail to let you know they are <hi>often Inſpir'd.</hi>
+            </p>
+            <p>In the next place, you ought to beware of the Men of Exceſs in Devotion, or the <hi>Devout Big<g ref="char:EOLhyphen"/>gots,</hi> who by the Luſtre of their <hi>Specious Piety,</hi> may tempt you to fall in Love with their <hi>miſtaken Principles.</hi>
+            </p>
+            <p>In the Third place, be ſure to be upon your Guard when you happen to Converſe with ſome Perſons truly Religious; who nevertheleſs will not allow you the uſe of your Reaſon in ſeveral Points of Religion, but make it their Common place to diſclaim it, and decry the Perſons who make the beſt uſe of it they can.</p>
+            <p>And in the Fourth place, I think it will be need<g ref="char:EOLhyphen"/>leſs, ſince you are no Stranger to Learning, to put you in mind of having no regard to a certain ſort of Men, who are Notorious <hi>Quacks</hi> in Religion.</p>
+            <p>In ſhort theſe Men are ſuch Bunglers in good Senſe and Reaſon, that I dare ſay you are aware of 'em already.</p>
+            <p>But in the laſt place, you cannot be too wary in your Converſation with a <hi>Bluſtering noiſy Pedant,</hi>
+               <pb n="5" facs="tcp:64545:3"/>who has more Wiſdom and Learning in his own Opinion, than all the <hi>Ancients</hi> and the <hi>Moderns;</hi> who is infallible in his Judgment, and irrefutable in his Arguments: who makes wonderful Diſcove<g ref="char:EOLhyphen"/>ries of other Mens Errors, and more wonderful Confutations of 'em, but will not be oblig'd to acknowledge <hi>his own:</hi> who marches up and down from <hi>Coffee-houſe</hi> to <hi>Coffee-houſe</hi> to hand about his Notions, and to magnifie his Conqueſts: Who looks as big as the <hi>Great Mogul</hi> with a Scrap of Latin, and a little New Teſtament Greek; vainly admires the <hi>in-conſiderable thing himſelf,</hi> and more vainly expects that others ſhould do ſo too: Who juſt knows ſo much of Books and Languages as to give you their Titles, and call Things by their Names, and can deſpiſe every body, but the <hi>deſ<g ref="char:EOLhyphen"/>piſable Man himſelf.</hi>
+            </p>
+            <p>If your ill luck makes you acquainted with this Man, you will ſoon diſcover him by his undiſ<g ref="char:EOLhyphen"/>creet Zeal and Oſtentation: He'll tell you a fine Story of his own Capacity, and bravely undertake to prove ſome New <hi>Hypotheſis,</hi> by Arguments known to <hi>no body,</hi> and convincing to <hi>no body</hi> but himſelf; and if you can bear with his Imper<g ref="char:EOLhyphen"/>tinence, he'll be Scribling on <hi>in perperpetuum,</hi> to ſhew you his own <hi>Skill</hi> in Controverſie, and your Miſ<g ref="char:EOLhyphen"/>takes: But then by thoſe very Writings of his you may know him; for at the very firſt taſte you'll find they contain nothing elſe, <hi>But looſe In-cohe<g ref="char:EOLhyphen"/>rent Matter, dull Criticiſms, fooliſh Stories, idle Banter, ſtupid Drollery, and in ſhort, the whole Family of the Inſipids.</hi>
+            </p>
+            <pb n="6" facs="tcp:64545:4"/>
+            <p>There's a certain Author you know, whoſe Writings this Character very well fuits; who will at laſt undoubtedly convince all that Read his <hi>Friendly Epiſtles,</hi> his <hi>Apologies</hi> and <hi>Reprimands,</hi> and his <hi>Vindiciae Antibaxterianae,</hi> that no Man that ever Printed on any Subject, can be ſo completly <hi>Dull,</hi> and ſo remarkably <hi>Scurrilous as himſelf.</hi> I need not cite the Pages and the Expreſſions, but I refer you to his whole Second Friendly Epiſtle to you for one ſcandalous <hi>Inſtance.</hi>
+            </p>
+            <p>The Author of this Friendly Epiſtle, Mr. <hi>Mal<g ref="char:EOLhyphen"/>leus</hi> (as he deſires to be call'd) excuſes himſelf with an air of Indignation,<note place="margin">pag. 4.</note> from proving that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignifies only to Plunge, for that he is ſure is a miſtake; which after his <hi>Comical Faſhion,</hi> he endeavours to prove from the Original Words us'd in the Texts,<note place="margin">
+                  <hi>Mark 7.4.</hi> and not as he has twice miſcited it <hi>4.</hi> and <hi>7. Heb. 9.10.</hi> and not the <hi>11.</hi> as he makes it.</note> cited in the Margin.</p>
+            <p>But notwithſtanding his great Confidence in <hi>his Proof</hi> from theſe Paſſages, may it not ſtill be queſtion'd, whether <hi>his Inſtances have any other Argument</hi> in 'em, unleſs it be to prove the flat contradiction to what he aſſerts? For the words form'd from the Verb <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> plainly referr to the hands in St. <hi>Mark</hi> and St. <hi>Luke</hi> too;<note place="margin">Luke 11.38.</note> and to make the Phraſe compleat, the <hi>Greek</hi> muſt run in St. <hi>Mark,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e. unleſs they waſh their hands,</hi> and in St. <hi>Luke,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e. that he had not firſt waſh'd his hands;</hi> by an ordinary <hi>greciſm</hi> of an <hi>Accuſative</hi> after a <hi>Verb Paſſive,</hi> which every one of the Authors,<note place="margin">Fr. Ep. p. 2.</note> 
+               <hi>miſerable Grecians,</hi> very well knows,
+<pb n="7" facs="tcp:64545:4"/>but himſelf. Now, that the <hi>Jews waſh'd their hands</hi> any other way than <hi>we,</hi> and all the World do, by <hi>Plunging</hi> 'em in the Water, lies upon our Author's <hi>hands</hi> to prove; and there it will continue to ſtick; I dare ſay, and without being put to a <hi>Plunge,</hi> he'll never be able to maintain it.<note place="margin">Heb. 9. &amp; 11.</note> But Mr. <hi>Malleus</hi> referrs you to another Text in the <hi>Hebrews;</hi> ay, ſo he does: But he miſcites the Number of the Verſe, and like a <hi>miſerable Gre<g ref="char:EOLhyphen"/>cian</hi> miſreads the Words of his Author, and like a <hi>miſerable Logician,</hi> firſt ſuppoſes by a good Inclination, that the <hi>ſprinkling</hi> of Blood mentioned in the 14th. is one of the <hi>Baptiſms</hi> mentioned in the 10th. and then argues very <hi>pertly,</hi> but very <hi>inconcluſively,</hi> from it. And this is the <hi>fate</hi> of the Firſt Arguments he advan<g ref="char:EOLhyphen"/>ces for a thing in which he is ſo confident, as to ſay, they are <hi>irrefragable;</hi> and as clear as <hi>any Propoſition in Euclid:</hi>
+               <note place="margin">Fr. Ep. p. 5.</note> a Book I have good reaſon to believe he never ſaw, ſince he ſo ſcurvily diſgraces it, by comparing his proofs, with the Theorems of that <hi>celebrated Mathemati<g ref="char:EOLhyphen"/>cian.</hi>
+            </p>
+            <p>But Mr. <hi>Malleus</hi> is ſick of this queſtion,<note place="margin">Ibid. p. 6.</note> (and I dare ſay his Reader is as ſick of his Proofs) and therefore he proceeds with great ſolemni<g ref="char:EOLhyphen"/>ty to advance Three <hi>New Paradoxes.</hi> He tells you Mr. <hi>Keith,</hi> with great aſſurance that <hi>John the Baptiſt</hi> and St. <hi>Peter</hi> too, Declare they Plunged not when they Baptiz'd.</p>
+            <pb n="8" facs="tcp:64545:5"/>
+            <p>Not in expreſs Terms ſure—? No, no, but by good conſequence. Pray let's ſee it good Mr. <hi>Malleus.</hi> Why, St. <hi>Luke</hi> in his 3d Chap. and 16th Verſe, introduces <hi>John the Baptiſt,</hi> ſaying, I Bap<g ref="char:EOLhyphen"/>tize you <hi>with Water, and not in the Water,</hi> for the <hi>Prepoſition</hi> is omitted.<note place="margin">p. 4.</note> 
+               <hi>O miſerable Gre<g ref="char:EOLhyphen"/>cian!</hi> don't you know what every School-boy knows, that an <hi>Ellipſis</hi> of the <hi>Prepoſition</hi> does not alter the ſenſe of the Phraſe?<note place="margin">Mat. 3.6. Mat. 3.11. Mark 1.5, 8. Joh. 1.26, 31, 33, Joh. 3.23.</note> And don't you ſee it expreſs'd in the Parrallel, and o<g ref="char:EOLhyphen"/>ther places cited in the Margin? But Mr. <hi>Malleus</hi> ſays, 'tis not Engliſh to ſay, <hi>I Plunge you with Water:</hi> Agreed; but who tranſlates it ſo beſides himſelf? 'tis a <hi>bad Tranſlation,</hi> and 'tis his <hi>own.</hi> But what then ſhall determine the ſenſe of the Word Baptize? Why let Mr. <hi>Malleus</hi> for once conſult his <hi>Greek Teſtament</hi> for the three Texts in the Margin,<note place="margin">Mat. 3.6, and 16. Joh. 3.23.</note> where <hi>John</hi> is ſaid to Baptize in <hi>Jor<g ref="char:EOLhyphen"/>dan,</hi> and in <hi>Enon,</hi> becauſe there was <hi>much Water,</hi> or <hi>many Waters</hi>—and Chriſt who was Baptized by <hi>John</hi> in <hi>Jordan,</hi> is ſaid expreſly to have went up <hi>out of the Water,</hi> ſo that the manner of <hi>John</hi>'s Baptiſm is plainly ſpecified in theſe paſſages. And if <hi>You</hi> Mr. <hi>Keith</hi> ſhould ask your <hi>Worthy Informer</hi> Mr. <hi>Malleus,</hi> in <hi>what manner</hi> did <hi>John the Baptiſt</hi> Baptiſe <hi>Chriſt</hi> and others who came to him? Or <hi>how</hi> were they Baptiz'd? Mr. <hi>Malleus</hi> muſt anſwer if he'll anſwer with the Text, That Chriſt and the Diſciples of <hi>John</hi> were <hi>Baptiz'd in Jor<g ref="char:EOLhyphen"/>dan;</hi> unleſs he chooſes to uſe his <hi>beloved Tranſla<g ref="char:EOLhyphen"/>tion,</hi> and ſay they were <hi>Baptiz'd with Jordan.</hi>
+            </p>
+            <pb n="9" facs="tcp:64545:5"/>
+            <p>But Mr. <hi>Malleus</hi> urges,<note place="margin">p. 8.</note> That <hi>John ſo</hi> Baptiz'd with Water, <hi>as</hi> Chriſt on the Day of Pentecoſt did with the Holy Ghoſt, and with Fire; and he makes a great Pother with this Argument; and lays about him as fiercely as <hi>Don Quixote</hi> did at the <hi>Windmill.</hi> Well, admit it be ſo; then it muſt follow, that <hi>John the Baptiſt</hi>'s Diſciples were <hi>to<g ref="char:EOLhyphen"/>tally immers'd,</hi> and cover'd with the Water in <hi>Jor<g ref="char:EOLhyphen"/>dan,</hi> for the Apoſtles were <hi>totally immerc'd</hi> or co<g ref="char:EOLhyphen"/>ver'd with the Miraculous effuſion of the Holy Ghoſt at Pentecoſt, the Fire appear'd only in the form of Tongues; but all the Room was fill'd with a mighty ruſhing Wind,<note place="margin">Acts 2.</note> and all the Perſons preſent therein, were as <hi>intirely Baptiz'd</hi> with, or <hi>in</hi> this mighty ruſhing <hi>Wind,</hi> as they had been, in in caſe all the Room had been fill'd with <hi>Water;</hi> and thus <hi>John,</hi> as our Authors Words are, <hi>ſo Bap<g ref="char:EOLhyphen"/>tiz'd</hi> with <hi>Water,</hi> as Chriſt did with the <hi>Holy Ghoſt</hi> and with <hi>Fire;</hi> that is, by <hi>Immerſion.</hi>
+            </p>
+            <p>But the Text do's neither <hi>ſay,</hi> nor <hi>imply,</hi> that Chriſt's <hi>Baptiſm</hi> with the <hi>Holy Ghoſt</hi> muſt be like <hi>John</hi>'s Baptiſm with <hi>Water;</hi> 'tis only ſaid, <hi>I Bap<g ref="char:EOLhyphen"/>tize you with Water,</hi> and he ſhall, <hi>&amp;c.</hi> The Word Baptize in this Second Clauſe has left its Native Senſe, and if the Metaphorical and Borrow'd Senſe be ſomewhat Catachreſtical; 'tis no new thing, but an ordinary Scheme of Speech, uſed in every Leaf of the Bible. This Word is uſed in another Alluſive Senſe, in <hi>Matth.</hi> 20.22. and <hi>Mark.</hi> 10.38. and is thus Paraphraz'd by the <hi>Aſſemblies;</hi> ſhall you be able to endure the over-flowings of Afflicti<g ref="char:EOLhyphen"/>ons, which like deep Water-floods muſt compaſs me about? Which <hi>Paraphraze</hi> by the way, in the
+<pb n="10" facs="tcp:64545:6"/>Aſſemblies Annotations is not only true, but a further Proof, that the Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, even when us'd Metaphorically, has all its Alluſive Senſe from the very Notion of <hi>Immerſion.</hi>
+            </p>
+            <p>But Mr. <hi>Malleus</hi> inſiſts upon it,<note place="margin">pag. 9.</note> That the Holy Ghoſt was pour'd out upon the Apoſtles, and that they were not <hi>immers'd,</hi> or <hi>plung'd into</hi> or <hi>under</hi> that <hi>Divine Effuſion;</hi> and as he expreſſes it, the Water in <hi>John</hi>'s Baptiſm was applied to the Per<g ref="char:EOLhyphen"/>ſon, and not the Perſon to the Water: So then all the force of his Argument amounts to this, that <hi>John</hi>'s Baptiſm with Water was like the Baptiſm of the Holy Ghoſt; but that was by the <hi>Effuſion,</hi> or pouring of it out upon the Apoſtles, and therefore <hi>John</hi>'s Baptiſm muſt be by the Effuſion or pouring out of Water on his Diſciples.</p>
+            <p>Now to this, you may give Mr. <hi>Malleus</hi> this plain Anſwer, <hi>Firſt,</hi> That there is no neceſſity for an <hi>entire reſemblance</hi> of a Real and Metaphorical Baptiſm in <hi>all Circumſtances</hi> as has been hinted be<g ref="char:EOLhyphen"/>fore, and he will not be able to prove his <hi>Major,</hi> that the <hi>one</hi> muſt in <hi>all reſpects</hi> be like the <hi>other:</hi> 'Tis ſufficient if there were any likeneſs, to juſtifie ſuch a Form of Speech, as Baptizing with the <hi>Holy Ghoſt;</hi> whether the Parties were firſt put into the ruſhing Wind, or the mighty ruſhing Wind was miraculouſly brought <hi>upon 'em</hi> on <hi>every ſide;</hi> in either caſe the Parties were <hi>totally</hi> cover'd and ſur<g ref="char:EOLhyphen"/>rounded with the Element.</p>
+            <p>But ſtill Mr. <hi>Malleus</hi> will reply, That the <hi>pour<g ref="char:EOLhyphen"/>ing out</hi> the <hi>Holy Ghoſt</hi> upon the Apoſtles, was <hi>Baptizing</hi> the Apoſtles with the <hi>Holy Ghoſt;</hi> and by conſequence that pouring Water upon the Party
+<pb n="11" facs="tcp:64545:6"/>Baptiz'd, is a proper manner of Baptiſm. Now, ſuppoſe this ſhould be granted Mr. <hi>Malleus,</hi> That the <hi>Real</hi> and <hi>Metaphorical Baptiſm</hi> are <hi>in all reſpects Analogous,</hi> then it muſt follow according to his own Judgment: That, as the <hi>Holy Ghoſt</hi> was pour'd out upon the Parties Baptiz'd at <hi>Pentecoſt,</hi> in ſo <hi>plentiful a manner,</hi> ſo as the Symbol of the Divine Preſence, <hi>viz. the mighty ruſhing Wind,</hi> intirely ſurrounded 'em, and touch'd 'em in <hi>all parts,</hi> and <hi>on every ſide:</hi> So the Party's to be Bap<g ref="char:EOLhyphen"/>tiz'd with Water, ought to have it pour'd out up<g ref="char:EOLhyphen"/>on 'em, with equal plenty, that the Element may touch every part of the Body; and not only ſo, but it muſt be ſo pour'd upon the Parties Baptiz'd, as to touch all parts at the ſame time, as the ruſh<g ref="char:EOLhyphen"/>ing Wind which fill'd the Room where the Apo<g ref="char:EOLhyphen"/>ſtles met, was at the ſame time preſent, and Conti<g ref="char:EOLhyphen"/>guous to every part of their Bodies. It cannot be deny'd, I ſay, if he will have the manner of <hi>Bap<g ref="char:EOLhyphen"/>tiſm by Water,</hi> to be ſpecifi'd and determin'd by the <hi>Baptiſm of the Holy Ghoſt,</hi> but that the Water muſt be pour'd on the Party Baptiz'd with a kind of <hi>Inundation,</hi> ſo as the Water may <hi>ſtay</hi> and <hi>abide</hi> upon the <hi>whole Body,</hi> in every part at the ſame time. And if this will neceſſarily follow; What will become of his Mode of Baptiſm, by <hi>applying</hi> or <hi>ſprinkling the Water</hi> on <hi>certain Parts</hi> only? That certainly will not be Analogous to the <hi>Bap<g ref="char:EOLhyphen"/>tiſm of the Holy Ghoſt,</hi> which he contends it ought to be. So that for the <hi>Strength</hi> of his Argu<g ref="char:EOLhyphen"/>ments, Mr. <hi>Malleus</hi> might well have forborn his inſulting: but the <hi>weakneſs</hi> of his Underſtanding would not give him leave to practice the leaſt piece of <hi>Diſcretion.</hi>
+            </p>
+            <pb n="12" facs="tcp:64545:7"/>
+            <p>In the 11. <hi>Pag.</hi> he tells you, That it being ad<g ref="char:EOLhyphen"/>mitted by many Paedobaptiſts that St. <hi>John plung'd</hi> his Diſciples; this is accounted the ſtrongeſt effort for the Baptiſts. Pray Mr. <hi>Keith</hi> ask him, who told him ſo? Not one Baptiſt of common ſenſe can be of that Opinion; for the ſtrongeſt Effort or Proof for <hi>plunging,</hi> if there be any, muſt be found in the <hi>Words</hi> of the <hi>Inſtitution,</hi>
+               <note place="margin">Vide Dr. <hi>Cave</hi>'s Pri<g ref="char:EOLhyphen"/>mitive Chriſtiani<g ref="char:EOLhyphen"/>ty. pt. 1. Chap. 10.</note> and the Hiſtory of the <hi>Correſponding Practice</hi> of the <hi>Apoſtolick Age,</hi> and not in the Conceſſions of ſome Learned Inge<g ref="char:EOLhyphen"/>nuous Men; which Conceſſions at beſt, are but <hi>Ar<g ref="char:EOLhyphen"/>gumentum ad bominem,</hi> or a probable Topick; where<g ref="char:EOLhyphen"/>as an Argument from the <hi>Inſtitution</hi> and Primitive Practice. recited in the Goſpels, or the <hi>Acts</hi> has that certainty, and undoubted <hi>Evidence,</hi> which o<g ref="char:EOLhyphen"/>blig'd thoſe Learned Men to make the very Conceſ<g ref="char:EOLhyphen"/>ſions he mentions.</p>
+            <p>In Page 13. He puts a Queſtion in very Bung<g ref="char:EOLhyphen"/>ling <hi>Burleſque.</hi> What were <hi>John</hi>'s and <hi>Peter</hi>'s <hi>Arms</hi> and <hi>Legs</hi> made of? We may with good reaſon, and more modeſty then he uſes, in treating thoſe <hi>Venerable Apoſtolick Men;</hi> ask him, what were the <hi>coarſe and uncouth Materials</hi> of his <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding?</hi> But why do you ask that Mr. <hi>Malleus?</hi> Why <hi>becauſe ſo many were Baptiz'd:</hi>
+               <note place="margin">Friendly Epiſt. <hi>p. 13.</hi>
+               </note> 
+               <hi>All</hi> Jeruſalem, <hi>all</hi> Judea, <hi>all the Regions round about</hi> Jordan—<hi>Three Thouſand by St.</hi> Peter <hi>in one Day, and they were Baptiz'd in</hi> their Cloaths, <hi>which is not likely,</hi> or Naked, <hi>which is not</hi> Modeſt, <hi>for what Proviſion had they made to change their Cloaths?</hi> And this is the Subſtance of Mr. <hi>Malleus</hi> his Re<g ref="char:EOLhyphen"/>marks in that Page, abating the <hi>childiſh</hi> and <hi>ſilly Wittiſms</hi>—But pray Mr. <hi>Malleus,</hi> why ſuch adinn
+<pb n="13" facs="tcp:64545:7"/>with the univerſal [All] do you deſign to make Mr. <hi>Keith</hi> believe; that the <hi>whole</hi> City of <hi>Jeruſalem</hi> and the <hi>whole</hi> Country of <hi>Judea,</hi> and <hi>all</hi> the Peo<g ref="char:EOLhyphen"/>ple living round about <hi>Jordan,</hi> were Baptiz'd by St. <hi>John</hi> in Perſon? I dare ſay you cannot impoſe ſuch a ſenſe upon the Text, nor Mr. <hi>Keith:</hi> and the Text does not ſay what you make it ſay,<note place="margin">Mat. 3.5.</note> in the place you referr to, There's not <hi>All</hi>
+               <note n="*" place="margin">'Tis obſer<g ref="char:EOLhyphen"/>vable that Cardinal <hi>Bellarmine</hi> was in the ſame miſ<g ref="char:EOLhyphen"/>take as ap<g ref="char:EOLhyphen"/>pears. <hi>Tom. 2. de Bapt. Lib. 1. Cap. 22.</hi>
+               </note> 
+               <hi>Jeruſalem</hi> to be found. But admit it had been ſaid, all <hi>Jeruſa<g ref="char:EOLhyphen"/>lem;</hi> as it is ſaid <hi>all Judea,</hi> and <hi>all</hi> the Nighbour<g ref="char:EOLhyphen"/>hood of <hi>Jordan;</hi> has Mr. <hi>Malleus</hi> ever ſeen any Interpreter that afferts, we muſt by the univerſal <hi>[All,]</hi> underſtand every Body that liv'd in thoſe places? And has he forgotten the noted diſtincti<g ref="char:EOLhyphen"/>of an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal in genera ſingulorum,</hi> and <hi>in ſingu<g ref="char:EOLhyphen"/>la generum?</hi> which his Authors ſo often abuſe in their Comments, on that famous Text, <hi>God would have all men be ſaved.</hi> They will immediately tell him, that <hi>[All]</hi> muſt ſignifie in very many paſſa<g ref="char:EOLhyphen"/>ges, ſome of all Ranks and Orders, and not every individual Perſon, as it is plain it does in the caſe before us; for St. <hi>Mathew</hi> uſes a <hi>term</hi> of <hi>abatement</hi> in the 7th Verſe, ſaying, that <hi>John</hi> obſerv'd <hi>many</hi> of the <hi>Phariſees</hi> and <hi>Saducees</hi> coming to his Baptiſm, 'tis neither ſaid <hi>all</hi> of 'em, nor <hi>moſt</hi> of 'em; but <hi>many</hi> or <hi>diverſe</hi> of 'em; and they that came,<note place="margin">Joh. 1.19. &amp; 29.</note> were ſent by ſuch of the <hi>Jews</hi> who <hi>did not come to</hi> his Baptiſm; to enquire what <hi>John</hi> was doing, and with what deſign: and <hi>many</hi> of the <hi>many</hi> that came, for ought appears to the contrary, or can be prov'd by Mr. <hi>Malleus,</hi> or any of his <hi>Learned London Divines,</hi> were <hi>never</hi> Baptiz'd by <hi>John.</hi> So that at laſt his <hi>all Jeruſalem</hi> and <hi>all Judea, &amp;c.</hi>
+               <pb n="14" facs="tcp:64545:8"/>muſt with the conſent of the Context Mr. <hi>Malleus</hi> his Learned Friends and Annotators, and with the Approbation to of his <hi>London Divines,</hi>
+               <note place="margin">In his Title Page.</note> ſigni<g ref="char:EOLhyphen"/>fie <hi>ſome</hi> Perſons; or, if he will <hi>diverſe</hi> Perſons dwelling in <hi>Jeruſalem,</hi> and in all parts of <hi>Judea,</hi> and in the Neighbourhood of <hi>Jordan</hi> came to St. <hi>John;</hi>
+               <note place="margin">Mat. 3.6.</note> and were, as St. <hi>Mathew</hi> ſays expreſly, <hi>Bap<g ref="char:EOLhyphen"/>tiz'd</hi> by <hi>John in Jordan,</hi>
+               <note place="margin">Mark 1.5.</note> and St. <hi>Mark more expreſly in the River Jordan,</hi> and that <hi>John</hi> who ſtaid ſome time in the Wilderneſs of <hi>Judea,</hi> ſhould during his ſtay Baptize either <hi>in Perſon</hi> or <hi>by his ſubſtitutes</hi> di<g ref="char:EOLhyphen"/>verſe of the <hi>Jews;</hi> is no ſuch Inſtance of his won<g ref="char:EOLhyphen"/>derful ſtrength, nor ſo unlikely as Mr. <hi>Malleus</hi> en<g ref="char:EOLhyphen"/>deavours to repreſent it.</p>
+            <p>But Mr. <hi>Malleus</hi> thinks it very improbable,<note place="margin">Friendly Epiſt. <hi>p. 13.</hi>
+               </note> 
+               <hi>That St.</hi> Peter <hi>ſhould Baptize</hi> 3000 <hi>Converts in one day,</hi> eſpecially confidering (as his Learned Phraſe is,) <hi>his antecedent and conſequent work.</hi> This obſervation is a freſh inſtance of Mr. <hi>Malleus</hi>'s negligent and inconſiderate humour; and demonſtrates very evi<g ref="char:EOLhyphen"/>dently, that he cannot read hardly a ſingle Text with any tolerable attention to the ſenſe of it.</p>
+            <p>For, in the 2d of the <hi>Acts</hi> at the 41ſt Verſe, 'tis ſaid; that about <hi>Three Thouſand Souls were added to the Church that day,</hi> i. e. on the day St. <hi>Peter</hi> Preached? and 'tis ſaid, <hi>That they who gladly re<g ref="char:EOLhyphen"/>ceived the Word, were Baptiz'd,</hi> and <hi>ſome</hi> of them might, nay <hi>all</hi> of 'em might be <hi>Baptiz'd</hi> that day, but 'tis not ſaid, that <hi>all,</hi> or <hi>any</hi> of 'em were <hi>Bap<g ref="char:EOLhyphen"/>tiz'd</hi> on <hi>that very day;</hi> nor is it ſaid, that <hi>one ſin<g ref="char:EOLhyphen"/>gle Convert</hi> of the 3000 was Baptiz'd by St. <hi>Peter in Perſon.</hi> With how <hi>little Reaſon</hi> then, or rather with how great <hi>contrariety</hi> to <hi>Reaſon</hi> muſt Mr.
+<pb n="15" facs="tcp:64545:8"/>
+               <hi>Malleus</hi> aſſert? that the 3000, were <hi>all</hi> Baptiz'd, and not only ſo, but all Baptiz'd by St. <hi>Peter,</hi> and <hi>all</hi> in one day. Another Inſtance of Mr. <hi>Malleus</hi> his <hi>great care</hi> to be in the wrong, for he crowds <hi>three un<g ref="char:EOLhyphen"/>truths into one ſingle Propoſition.</hi> However to gra<g ref="char:EOLhyphen"/>tifie him, we will ſuppoſe it had been expreſly ſaid in the terms of Mr. <hi>Malleus,</hi> that 3000 <hi>were Baptiz'd by</hi> St. Peter <hi>in one day.</hi> Does he not remem<g ref="char:EOLhyphen"/>St. <hi>John</hi>'s diſtinction, between Chriſt Baptizing <hi>in Perſon,</hi> and Chriſt Baptizing <hi>by his Diſciples;</hi>
+               <note place="margin">Joh. 3.22. <hi>compar'd with</hi> 4.1, 2.</note> for St. <hi>John</hi> had expreſly ſaid, <hi>ch.</hi> 3. <hi>v.</hi> 22. and <hi>ch.</hi> 4. <hi>v.</hi> 1. that <hi>Our Saviour</hi> Baptiz'd Diſciples; and yet in the very next Verſe he aſſures us that <hi>Chriſt himſelf</hi> i. e. <hi>Chriſt in Perſon</hi> did not, but his Diſciples Baptiz'd 'em. And if the Diſciples were ſo ready to exe<g ref="char:EOLhyphen"/>cute their Maſters Orders in Baptizing Converts, we may with good reaſon conclude, that had it been neceſſary to Baptize St. <hi>Peter</hi>'s <hi>numerous Con<g ref="char:EOLhyphen"/>verſion all in one day:</hi> St. <hi>Peter</hi> could not have wanted the aſſiſtance of the <hi>whole Apoſtolick Col<g ref="char:EOLhyphen"/>lege,</hi> and many other Chriſtian Fathers, who were all then at <hi>Jeruſalem.</hi>
+            </p>
+            <p>Well then, upon the whole I think it may be admitted, That St. <hi>John</hi>'s and St. <hi>Peter</hi>'s manner of Baptizing, their Converts is not attended with any Difficulties, on account of the Number ſaid, or ſuppos'd to be Baptiz'd by 'em; the only Objection that ſtill remains unſatisfi'd, is to this purpoſe,<note place="margin">Friendly Epiſt. <hi>p. 12.</hi>
+               </note> 
+               <hi>the Partys to be Baptiz'd were altogether unprovided for this Solemnity, having no change of Raiment, and no Cheering Liquors at hand for their uſe.</hi> I pray Mr. <hi>Malleus,</hi> How do you know that? <hi>Be<g ref="char:EOLhyphen"/>cauſe tis not mentioned:</hi> That's a <hi>Non-ſequitur</hi> with
+<pb n="16" facs="tcp:64545:9"/>a Witneſs; for either theſe conveniencys muſt have been Neceſſary on ſuch an Occcaſion to the Parties who were to be Baptiz'd or not: If they were, un<g ref="char:EOLhyphen"/>doubtedly they had 'em ready for uſe, tho' the bre<g ref="char:EOLhyphen"/>vity of the <hi>Divine Hiſtorian</hi> in ſuch Narrations as theſe, is a good reaſon why a <hi>wiſe Man</hi> ſhould not expect to find it in the Hiſtory: But if ſuch a Pro<g ref="char:EOLhyphen"/>viſion was altogether needleſs in that Country, as every Body that is acquainted with the Climate, and the Habits of thoſe <hi>Eaſtern Countries</hi> muſt know; then I hope 'twill be granted to be altogether ab<g ref="char:EOLhyphen"/>ſur'd for one to urge the improbality of Baptizing by <hi>Immerſion:</hi> becauſe the Baptized were unpro<g ref="char:EOLhyphen"/>vided with ſome things, for which they had no occaſion, or at leaſt were not neceſſary to 'em.</p>
+            <p>But Mr. <hi>Malleus thinks it very indecent, to Bap<g ref="char:EOLhyphen"/>tize without the Cloaths, and very unſafe to be Baptiz'd in 'em, unleſs they are chang'd.</hi> As to that indecent manner of Baptiſm, if he means of them who were Strip'd quite Naked, he knows not when, where, and by whom it was ever practic'd or allow'd; much leſs aſſerted and vindicated, tho' it being ſo immodeſt a Practice, makes one wonder Mr. <hi>Malleus</hi> of all Men ſhould be an Ene<g ref="char:EOLhyphen"/>my to it, who is ſo great <hi>lover of Indeceneies</hi> and <hi>Rudeneſſes</hi> in his Stile and Behaviour.</p>
+            <p>And for the hazard, he ſuppoſes they muſt run, by being Baptiz'd in their Cloaths: He is al<g ref="char:EOLhyphen"/>together miſtaken if he thinks it be ſo; in thoſe warmer Climates, where Bathing in their light and looſe Garments is very frequently practis'd: And in theſe <hi>Northern colder Regions</hi> our prudence di<g ref="char:EOLhyphen"/>rects us to uſe ſuch reaſonable Precaution, in that
+<pb n="17" facs="tcp:64545:9"/>Religious Solemnity, as may prevent any inconve<g ref="char:EOLhyphen"/>niencies from Attending the Baptiz'd, and him that Adminiſters it. But after all, If Mr. <hi>Malleus</hi> thinks theſe <hi>Little Difficultys,</hi> and <hi>Groundleſs Objections</hi> are ſtrong enough to diſprove <hi>Expreſs Matters of Fact,</hi>
+               <note n="*" place="margin">Matth. 3.16. Acts 8.39. Joh. 3.23. 2 Kin. 5.14. <hi>The</hi> 70. <hi>Read</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>which</hi> Paſor <hi>Tranſtates thus,</hi> Immerſit ſe Naeman Jordane ſe<g ref="char:EOLhyphen"/>pties.</note> Recorded in the <hi>Holy Scriptures;</hi> he may, if he be not wiſe enough to Quit it, en<g ref="char:EOLhyphen"/>joy his beloved Opinion; yet let him conſider,<note place="margin">
+                  <hi>Chald. Paraph.</hi> intinxit ſe in Jor<g ref="char:EOLhyphen"/>dene. <hi>French Tranſlat.</hi> &amp; ſe plon<g ref="char:EOLhyphen"/>gea au Jordain par ſept fois — <hi>Dutch Tranſlat.</hi> ende <hi>dopte</hi> ſich in de Jordane ſeven mael.</note> if <hi>this his Rule</hi> of confuting be admitted, as certain, it will be no difficult task upon the ſame Grounds, to confute diverſe Paſſages of Sacred Hiſtory.</p>
+            <p>Mr. <hi>Malleus</hi> has but one thing more that has the Face of an Argument, which after ſome confus'd <hi>Tittle Tattle,</hi> and <hi>Malicious Banter,</hi> he ſtumbles upon in his <hi>17th.</hi> Page,<note place="margin">Friendly Epiſtle, <hi>p. 19.</hi>
+               </note> and immediately falls into one of his fits of Indignation; and then we hear no more of it, till the 19th. when he uſhers it in with a great deal of Ceremony, and tells you this (noble) Argument, as he would have it eſteemed, was the reſult of his free Thought; and tho' ſome ill na<g ref="char:EOLhyphen"/>tur'd People might be apt unkindly to ſuſpect he had ſtolen the Obſervation from a late Writer, yet he aſſures you, and you may take his Word if you pleaſe, this <hi>Criticiſm</hi> is really the Product of his <hi>Profound Meditations;</hi> and the Notion, he ſo much values himſelf upon, is this: That <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> indeed ſignify's either to plunge or dip; but for the Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that has never ſuch a Signification, but ſignify's other ways of Waſhing, <hi>excluſive of dip<g ref="char:EOLhyphen"/>ping or plunging:</hi> And for this bold Aſſertion he
+<pb n="18" facs="tcp:64545:10"/>advances (but very cooly) Two conſiderable Rea<g ref="char:EOLhyphen"/>ſons: <hi>One</hi> is, becauſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is a Derivative, and <hi>the Other,</hi> that not One Paſſage of Scripture can be nam'd, where it ſignifies <hi>Dipping</hi> or <hi>Plunging.</hi> Now as theſe are Two very daring Aſſertions, ad<g ref="char:EOLhyphen"/>vanc'd with very great Confidence, by Mr. <hi>Malleus</hi> againſt all <hi>Ancient</hi> and <hi>Modern Interpreters, Lexi<g ref="char:EOLhyphen"/>cographers</hi> and <hi>Critics;</hi> it gives the Reader a fair and convincing Account of his unparallel'd <hi>Effronte<g ref="char:EOLhyphen"/>ry:</hi> And by this we might have gueſs'd that he dwells pretty near the <hi>Engliſh Verſailles</hi> in <hi>Moor<g ref="char:EOLhyphen"/>fields;</hi> for what elſe but the Temper and Qualifi<g ref="char:EOLhyphen"/>cations of the Fellows of that College could have prevailed upon him, to advance a Propoſition ſo <hi>groſly and notoriouſly untrue?</hi> But to examine his Reaſons, I muſt ask him, Did ever any <hi>Grammari<g ref="char:EOLhyphen"/>an Antient</hi> or <hi>Modern</hi> tell him, that Derivatives for being Derivatives loſe ſome of the Senſe of their Primitives? This had been a fine Story in<g ref="char:EOLhyphen"/>deed, had any of 'em been ſo ſilly as Mr. <hi>Malleus</hi> is, to believe it; let him but examine, if he can, his <hi>Scapula</hi> or <hi>Conſtantine</hi> or <hi>Martinius,</hi> and ſee if he do's not meet with <hi>many,</hi> Ay, and a <hi>great many</hi> too, of the Derivatives in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that are ſo far from <hi>leſſening,</hi> that they <hi>intend</hi> the Signification of their <hi>Primitives.</hi>
+            </p>
+            <p>Yet to give him all the Advantage in a deſperate Cauſe that he can deſire, I am content for the pre<g ref="char:EOLhyphen"/>ſent it ſhall be admitted, to be the Property of Verbs in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which are <hi>Derivatives,</hi> to abate ſome<g ref="char:EOLhyphen"/>what of the Senſe of their Primitives. Nay, he ſhall have another Favour granted him, <hi>tho' he deſerves none,</hi> that the very Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> it ſelf, in Diſpute
+<pb n="19" facs="tcp:64545:10"/>is not in ſome caſes excepted from this <hi>New Rule</hi> in <hi>Grammar</hi> lately <hi>Enacted</hi> by him, and his <hi>Anonimous</hi> Author; and let him make the beſt of theſe Conceſ<g ref="char:EOLhyphen"/>ſions: For, unleſs he can prove that it <hi>does ſignifie,</hi> and <hi>muſt ſignifie</hi> any other thing than to <hi>waſh, dip,</hi>
+               <note place="margin">2 Kings 5.14. Mat. 3, 6, and 16. Mark 1.5, and 8. John 3.23. Acts 8.38. Rom. 6.4. Coloſ. 2.12.</note> 
+               <hi>Plunge</hi> or <hi>Immerſe</hi> the Body of the Baptiz'd in Water, ſo as the whole Body for a time remains under the Water, and intirely cover'd by it; as it's plain it do's and muſt ſignifie in the Paſſages I refer him to in the Margin, I don't ſee what ſervice he will do himſelf by this <hi>New Fangled Spurious Rule</hi> in <hi>Grammar.</hi> Every body knows that ſome words in all Languages have a pretty ſteady laſting ſenſe, and are Symbols for one, or a few preciſe Ideas.</p>
+            <p>And 'tis as well known, That there are other words which by a Promiſcuous uſage are apply'd to a great variety of Senſes. Now when a wiſe Man meets with any word of the latter ſort in any approved Author, he do's not Peremtorily engage and com<g ref="char:EOLhyphen"/>pel the Word to ſignifie, as he would have it, and as it may have often ſignified elſewhere, but takes it in the Senſe of his Author, or elſe he knows, he muſt be content not to underſtand him, which I ſuppoſe to be Mr. <hi>Malleus</hi> his choice, and no bo<g ref="char:EOLhyphen"/>dy that I know will envy him for it.</p>
+            <p>The <hi>Sacred Writers</hi> ought to be treated with a <hi>peculiar Veneration;</hi> and if they fairly preſent their Senſe to you, in certain Terms which at ſometimes are ambiguous, but in the <hi>caſe before us,</hi> are clearly determin'd to a <hi>particular Senſe</hi> by the Circumſtan<g ref="char:EOLhyphen"/>ces of the Story; what perverſneſs muſt it be, to impoſe a Senſe that widely differs from what they deliver? This in good conſtruction when 'tis
+<pb n="20" facs="tcp:64545:11"/>
+               <hi>knowingly done,</hi> as it muſt be in ſome very plain ca<g ref="char:EOLhyphen"/>ſes, is a taking upon us by our own Authority to eſtabliſh a <hi>Scripture Canon</hi> of our <hi>own;</hi> for if the ſenſe of Scripture which in the beſt ſenſe is Scrip<g ref="char:EOLhyphen"/>ture, be <hi>interpreted</hi> away, the Scriptures may be truly ſaid to be loſt, tho' all the <hi>Printed</hi> and <hi>Manu<g ref="char:EOLhyphen"/>ſcript Copies</hi> ſhould continue in being.</p>
+            <p>But Mr. <hi>Mallens</hi> will have that to be the ſenſe of this ſcripture term <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for which he contends <hi>viz.</hi> that it never ſignifies to <hi>dip</hi> or <hi>plunge.</hi> To this it muſt be ſaid, that tis very ſtrange if it be really ſo, that <hi>all antiquity</hi> ſhould be utterly miſtaken in the ſenſe of a word, by which they always appre<g ref="char:EOLhyphen"/>hended they were particularly directed in the very <hi>mode</hi> of ſo ſolemn an <hi>Inſtitution.</hi>
+               <note place="margin">Dr. <hi>Cave</hi>'s Prim. Chriſt. Pr. 1. Cap. 10.</note> What elſe occa<g ref="char:EOLhyphen"/>ſioned the Univerſal Practice of Baptizing in <hi>Ponds, Rivers,</hi> and in the <hi>Sea it ſelf</hi> in the Three firſt Centuries?<note place="margin">
+                  <hi>Tertull. de Baptiſmo ad Quin<g ref="char:EOLhyphen"/>tillam.</hi> homo in aqua demiſſus; &amp; nulla eſt diſtinctio, mari quis an ſtagno, flumine an fonte, lacu an alveo diluatur. Nec quicquam re<g ref="char:EOLhyphen"/>fert inter eos quo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Joannes in Jordane, Petrus in Tibure tinxit.</note> which is mention'd by <hi>Tertullian</hi> and others, not as a late Innovation, but a <hi>conſtant undiſputed uſage.</hi> So that one may ſafely challenge any one inſtance to be produced for the different mode of Baptiſm during <hi>the Two firſt Centuries,</hi> unleſs we may except the Baptiſm of Clinicks, or Perſons confin'd to their Beds, and at the point of Death, which however was look'd up<g ref="char:EOLhyphen"/>on as defective for the Party ſo Baptiz'd could not be admitted to Holy Orders. The <hi>Jews</hi> as their <hi>Writers</hi> aſſure us, were wont to Baptize their Pro<g ref="char:EOLhyphen"/>ſelytes, for ſome time before <hi>our Saviour;</hi> and their mode of Baptiſm <hi>is agreed by all Learned Men</hi> to
+<pb n="21" facs="tcp:64545:11"/>have been by<note n="*" place="margin">Merſatione non profuſione ag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſolitum hunc ritum, indicant &amp; vocis proprietas, &amp; loca ad eum ritum delecta. Joh. 3.33. Act. 8.38. &amp; alluſiones, Rom. 6.3, 4. Coloſ. 2.12.</note> 
+               <hi>Immerſion.</hi> And if he does but conſult the <hi>Synopſis Criticorum</hi> on the 6th verſe of the 3d Chap. of <hi>Matt.</hi> he will find himſelf confuted by that Learned Gentleman that made that uſeful Collection, who will tell him Baptiſm us'd to be celebrated by <hi>Immerſion</hi> or putting the party Baptiz'd into the <hi>Element,</hi> and not by Profuſion, or <hi>pouring the Ele<g ref="char:EOLhyphen"/>ment</hi> upon him. And further, that this appear'd by the <hi>proper ſenſe</hi> of the Word, and the places conſtantly choſen for that <hi>Solemnity, &amp;c.</hi> But why do I refer him to this Gentleman? or what need have I to ſend him to any particular Anno<g ref="char:EOLhyphen"/>tator? All the <hi>Proteſtant</hi> and all the <hi>Popiſh,</hi> all the <hi>Ancient</hi> and <hi>Modern</hi> both <hi>Greek</hi> and <hi>Latin</hi> In<g ref="char:EOLhyphen"/>terpreters are agreed in this that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies to <hi>Immerge</hi> or <hi>Dip</hi> in 3 <hi>Mat.</hi> 1 <hi>Mar.</hi> 3 <hi>John,</hi>
+               <note place="margin">
+                  <hi>Tertullian</hi> con<g ref="char:EOLhyphen"/>ſtantly Tranſ<g ref="char:EOLhyphen"/>lates it by <hi>Tingo.</hi>
+               </note> 8th of the <hi>Acts,</hi> and 6 <hi>Rom.</hi> and 2 <hi>Coloſ.</hi> whatever it may ſignifie elſewhere: And as all agree in that ſenſe of the Word, ſo all the Ancient <hi>Eaſtern Chur<g ref="char:EOLhyphen"/>ches</hi> agreed in the mode of <hi>Immerſion.</hi> And as was ſaid before, very few, if any Inſtances to the contrary can be produced by this miſerable Grecian Mr. <hi>Malleus,</hi> or any of his <hi>Learned London Di<g ref="char:EOLhyphen"/>vines.</hi> But had a Man leiſure to collect the Proofs from <hi>Antiquity</hi> for the <hi>Primitive uſage of Baptiſm by Immerſion,</hi> they are for Number, and evidence ſo many and ſo conſiderable, that the very Paſſages tranſcrib'd would ſoon grow into a pretty hanſom Volume: And any Man who had juſt <hi>dipt</hi> into the Writings of the Fathers, or but conſulted the <hi>Centuriators</hi> upon the Article of Baptiſm in the three
+<pb n="22" facs="tcp:64545:12"/>or four Firſt ſeveral Ages of Chriſtianity, could not be ſo ſtupid as to queſtoin the ſenſe they gave to the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the paſſages to which I have already referr'd Mr. <hi>Mallens.</hi>
+            </p>
+            <p>There was indeed, at the time of the famous firſt Council at <hi>Nice,</hi>
+               <note place="margin">
+                  <hi>46 and 49</hi> Canone Apoſtol. Concil. Tom. <hi>1.</hi> edit. Paris.</note> and for a good while after, a debate between the <hi>Arians</hi> and <hi>Trinitarians</hi> about Baptiſm, by a <hi>ſingle</hi> and <hi>trine immerſion;</hi> and one <hi>Eunomius</hi> was condemn'd for baptiſing by a <hi>ſingle Immerſion</hi> in a <hi>Council</hi> held at <hi>Constantinople:</hi> and further, this uſage of baptiſing by a <hi>Trine Immerſi<g ref="char:EOLhyphen"/>on</hi> was confirm'd ſo lately as by the ſecond <hi>Council</hi> at <hi>Ravenna.</hi> But never was it yet decreed by any <hi>Council General, Provincial,</hi> or <hi>Dioceſan,</hi> that Baptiſm <hi>by Immerſion</hi> (or plunging, as he ſtiles it) <q rend="margQuotes">
+                  <hi>is no lawful Baptiſm,</hi>
+                  <note place="margin">Friendly Ep. <hi>p. 6.</hi>
+                  </note> 
+                  <hi>but a human and diabolical invention, a breach, a notorious breach, an intole<g ref="char:EOLhyphen"/>rable breach of the</hi> 6th <hi>and</hi> 7th <hi>Commandments.</hi>
+               </q> Had Mr. <hi>Malleus</hi> liv'd in the 4th Century, he had been condemn'd as an <hi>Heretick</hi> without more ado, for ſo bold, nay ſo wicked and antichriſtian an Error: For if a Perſon could not ſcape their <hi>Anathema's</hi> for aſſerting that one ſingle Plunge in the Water, or Bap<g ref="char:EOLhyphen"/>tizing by one Immerſion was ſufficient, and that it need not be thrice repeated, Mr. <hi>Malleus</hi> wou'd have been <hi>Anathematiz'd</hi> without hopes of Abſoluti<g ref="char:EOLhyphen"/>on, who is ſo hardy as <hi>to diſown and condemn Bapti<g ref="char:EOLhyphen"/>ſing by Immerſion, as unlawful.</hi>
+            </p>
+            <p>How little did the Chriſtians of the two firſt Ages, who for ought appears to the contrary were gene<g ref="char:EOLhyphen"/>rally if not all Baptiz'd by Immerſion or Dipping; how little, I ſay, did they dream? that one who thinks himſelf a very Orthodox Teacher, ſhould
+<pb n="23" facs="tcp:64545:12"/>ariſe and peremptorily <hi>
+                  <g ref="char:V">Ʋ</g>nchristen 'em all in one ſen<g ref="char:EOLhyphen"/>tence,</hi> tho' they were <hi>then</hi> the whole viſible Church: and if this Author's opinion be true, were never lawfully baptiz'd, but were <hi>guilty of an intolerable breach of the</hi> 6th <hi>and</hi> 7th <hi>Commandment.</hi>
+               <note place="margin">Friendly Ep. <hi>p. 6.</hi>
+               </note>
+            </p>
+            <p>
+               <hi>Pope Gregory the</hi> 1. of that name, <hi>tho' a Pope,</hi> was ſo <hi>Orthodox</hi> in the point of <hi>Baptiſing by Immerſion,</hi> that he writes a very large Epiſtle to one <hi>Leander</hi> his Contemporary, <hi>Biſhop of Seville;</hi> wherein Im<g ref="char:EOLhyphen"/>merſion and Baptiſm by a Trine Immerſion is the ſubject and ſenſe of every line: The Popes of thoſe times had it ſeems ſome Modeſty, and ſome Chri<g ref="char:EOLhyphen"/>ſtianity; but Mr. <hi>Malleus</hi> wou'd tempt one to think he had neither.</p>
+            <p>And <hi>Pope Leo</hi> the 1. was as Orthodox in this point as <hi>Gregory his Succeſſor;</hi> for in an Epiſtle of his he ex<g ref="char:EOLhyphen"/>pounds the 4th verſe of the <hi>6th</hi> of the <hi>Romans</hi> in a ſenſe that plainly ſuppoſes baptizing by Immerſion to be the <hi>allow'd</hi> and <hi>general Practice of the Church;</hi>
+               <note place="margin">
+                  <hi>Ep. Leonis primi in Tomo Tertio Edit.</hi> Paris. Sepulturam triduanam imi<g ref="char:EOLhyphen"/>tatur trina de<g ref="char:EOLhyphen"/>merſio, &amp; ab aquis elevatio, reſurgentis eſt ad inſtar de Se<g ref="char:EOLhyphen"/>pulchro— <hi>ibid.</hi>
+               </note> for ſays he <q rend="margQuotes">
+                  <hi>the trine Immerſion repreſents our Savi<g ref="char:EOLhyphen"/>our's abiding three days in the grave; and the riſing of the party Baptiz'd out of the water, reſembles his riſing out of the grave.</hi>
+               </q> Now where had the ſenſe of this compariſon been, if there had been no ſuch thing in being as Baptizing by Immerſion?</p>
+            <p>And to add but one Authority more of this ſort,<note place="margin">
+                  <hi>Catechiſ, ad Paroch, parte 2. de Baptiſmo.</hi>—cùm ali<g ref="char:EOLhyphen"/>quis aquâ mergi<g ref="char:EOLhyphen"/>tur, quod diu à primis temperi<g ref="char:EOLhyphen"/>bus in Eccleſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Obſervalum.</note> the Council of <hi>Trent</hi> it ſelf, As modern and hetero<g ref="char:EOLhyphen"/>dox as it is in moſt other matters, has very modeſt<g ref="char:EOLhyphen"/>ly declar'd her opinion in this, in a Catechiſm made by her order; <hi>viz. that, Baptiſing by Immerſion or Dipping "was for a long time, from the very beginning obſerv'd in the</hi> Chriſtian Church.</p>
+            <pb n="24" facs="tcp:64545:13"/>
+            <p>But it may be Mr. <hi>Malleus</hi> has no regard to the ſenſe and opinion of <hi>Popes and Popiſh Councils,</hi> and I ſuppoſe for that Reaſon he will not much val<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Opinion of an Eminent Writer in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church, who died in <hi>Rome,</hi> and thought it neceſ<g ref="char:EOLhyphen"/>ſary to Baptize <hi>not barely by immerſion, but by <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ine immerſion;</hi>
+               <note place="margin">Epiſt Gregorii Protoſyncelli 30. ni fallor, Tomo Concil. Edit. <hi>Paris.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>and appeals for his juſtification to the uſage of former times.</hi>
+            </p>
+            <p>However, I hope, Mr. <hi>Malleus</hi> has ſome eſteem for the Judgment of <hi>Proteſtant Divines,</hi> tho' the living have no Reaſon to value it, if he had not: And the Senſe of <hi>thoſe Divines,</hi> is full on our ſide in the Matter in Debate, and point blank againſt Mr. <hi>Malleus:</hi> For inſtance, The <hi>Divines</hi> who com<g ref="char:EOLhyphen"/>pil'd the<note n="*" place="margin">
+                  <hi>Cont. Magdeb. Cent. 2.</hi> mi<g ref="char:EOLhyphen"/>niſtros in aquam Baptizandos immer<g ref="char:EOLhyphen"/>ſiſſe —probat verbum <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, quod immerſionem in Aquam ſignificat, &amp; quod <hi>Paulus</hi> immerſiorem illam al<g ref="char:EOLhyphen"/>legorice exponit. <hi>6 Rom. 2 Coloſ. 5 Epheſ. 3 Tit. 10 Heb. &amp; alibi.</hi>
+               </note> 
+               <hi>Centuriae Magdeb.</hi> ex<g ref="char:EOLhyphen"/>preſly ſay, <hi>That the Miniſters Bap<g ref="char:EOLhyphen"/>tiz'd by Immerſion, in the Second Cen<g ref="char:EOLhyphen"/>tury; that the Greek Word ſignified, to Plunge or Dip, and that St.</hi> Paul <hi>in divers Paſſages expreſly alludes to the practice of Baptizing by Immerſi<g ref="char:EOLhyphen"/>on</hi> — and a great deal more to the ſame purpoſe, in the 1ſt. 2d. and 3d. Volumes. And the <hi>Learn<g ref="char:EOLhyphen"/>ed and Judicious</hi>
+               <note n="*" place="margin">
+                  <hi>Calv. Inſt. l. 4. C. 15. S. 19.</hi> Quanquam &amp; ipſum Baptizandi verbum mergere ſignificat, &amp; mergen<g ref="char:EOLhyphen"/>di ritum veteri Eccleſiae obſervatum fuiſſe conſtat.</note> 
+               <hi>Mr. Calvin,</hi> is as expreſs in this Matter, as Words can make him, for he frankly owns, that <hi>the Word Baptize ſigni<g ref="char:EOLhyphen"/>fies to Plunge or Dip— And further aſſures us, for a certain Truth, that Baptizing in that manner was the uſage of the Ancient Church.</hi>
+            </p>
+            <pb n="25" facs="tcp:64545:13"/>
+            <p>And the <hi>Learned Caſanbon,</hi> his Countryman,<note place="margin">
+                  <hi>Caſaub.</hi> Notae ad <hi>3</hi> Mat. com<g ref="char:EOLhyphen"/>mate 6t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.—Hic enim fuit baptizandi ritus ut in aquas im<g ref="char:EOLhyphen"/>mergerentur— quod vel ipſa vex <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, declarat ſatis. —non eſſe abs quod ſe nonnulli diſputarunt de toto corpore immergendo—<hi>ibid.</hi>
+               </note> was of the very ſame Opinion, which he free<g ref="char:EOLhyphen"/>ly declares in his brief Notes upon the <hi>Greek Teſtament,</hi> ſaying, <hi>That the manner of</hi> John<hi>'s Bap<g ref="char:EOLhyphen"/>tiſm, was by Immerſion, and that it was not without Reaſon, that ſome Perſons argued for plunging the whole Body under Water in Baptiſm, ſince the very Word has that ſignification.</hi>
+            </p>
+            <p>This was the Judgment of thoſe two <hi>renowned Divines</hi> and <hi>Crities,</hi> the moſt conſiderable perhaps that <hi>France</hi> ever bred. Let us ſee now of what opinions our <hi>Engliſh Divines are</hi> in this point.</p>
+            <p>
+               <hi>Biſhop Daevenant</hi> in his Expoſition on theſe words in the <hi>2d.</hi> of the Coloſ. <hi>[Buried with him in Bap<g ref="char:EOLhyphen"/>tiſm.]</hi> Obſerves, that the Perſons <q rend="margQuotes">
+                  <hi>Baptized in the ancient Church were not Sprinkled only, but Plung'd into the Water. Nay, Dr.</hi> Holdſworth <hi>ſays more,</hi>
+                  <note place="margin">In bis <hi>22</hi> Le<g ref="char:EOLhyphen"/>cture.</note> 
+                  <hi>that Baptiſm by Immerſion is ſtill in uſe in ſome Churches,</hi> and in others that the <hi>Baptized are Plun<g ref="char:EOLhyphen"/>ged thrice,</hi>
+               </q> which is agreeable to the Ancient uſage.</p>
+            <p>Dr. <hi>Sparrow,</hi> late Biſhop of <hi>Norwich,</hi>
+               <note place="margin">p. 260. <hi>and</hi> p. 262—</note> in his <hi>Ratio<g ref="char:EOLhyphen"/>nale</hi> aſſures us, that <hi>Baptiſm in the first times</hi> 
+               <q rend="margQuotes">
+                  <hi>was perform'd in Fountains and Rivers, and the Apo<g ref="char:EOLhyphen"/>ſtles Baptiz'd in ſuch places.</hi>
+               </q> And perhaps there's not one Divine of the <hi>Church of England</hi> to be nam'd, ſo illiterate and raſh as Mr. <hi>Malleus;</hi>
+               <note place="margin">
+                  <hi>Vide</hi> Bp. <hi>Sa<g ref="char:EOLhyphen"/>lisb.</hi> Expol. of the 28th Art.</note> but one and all of them, who have occaſion to give their opinion in this Subject, admit Baptizing by Immerſion to have been the primitive practice. And the <hi>Church of England itſelf</hi> directs her Mi<g ref="char:EOLhyphen"/>niſters to obſerve it in ſome caſes, as appears by the Rubrick in the Form of Baptizing Infants. So
+<pb n="26" facs="tcp:64545:14"/>that every one of her Divines when he declares his <hi>Aſſent</hi> and <hi>Conſent</hi> to the truth and uſe of her <hi>Li<g ref="char:EOLhyphen"/>turgy,</hi>
+               <note place="margin">
+                  <hi>Rub.</hi> in the form of pub. Bapt. it they ſhall certity him [the <hi>Prieſt</hi>] that the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may well end<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, he ſhall <hi>dip</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the Water <hi>diſcreetly.</hi>
+               </note> at the ſame time profeſſes thus much at leaſt, that <hi>Baptiſm by Immerſion is practicable and valid in certain caſes,</hi> and is by <hi>no means</hi> to be rejected as <hi>unlawful,</hi> and <hi>as a notorious breach</hi> of the 6th and 7th Commandments. <hi>F. Ep.</hi> p. 19.</p>
+            <p>I will name but one Authority more, and have reſerv'd that for the laſt, becauſe Mr. <hi>Malleus,</hi> 'tis probable, will rather be concluded by it, than by all I have already refer'd him to: And the Perſon I mean, is the <hi>Learned</hi> Mr. <hi>Pool,</hi> the Author of the <hi>S<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>pſis Criticorum;</hi> who with the <hi>candour</hi> of a Gentleman and <hi>ſincerity</hi> of a Divine, freely declares himſelf in favour of the <hi>Antiquity of Baptizing by Immerſion or Dipping,</hi>
+               <note place="margin">
+                  <hi>P. 21.</hi> of this Diſcourſe.</note> in the paſſage I referred Mr. <hi>Malleus</hi> to before, <hi>viz.</hi> in his Collection upon the 3d Verſe of the 6th Chapter of St. <hi>Matthew:</hi> But he confirms his Opinion by citations from other Learned Men, and proceeds further to give his Reader the ſenſe of <hi>Maldonate,</hi> a conſiderable Anno<g ref="char:EOLhyphen"/>tator,<note place="margin">
+                  <hi>Syn. Crit. in 3 Mat.</hi> Erat Ab<g ref="char:EOLhyphen"/>lutio <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> qui in Eccle<g ref="char:EOLhyphen"/>ſiam Judae<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rum admittebartur <hi>viz.</hi> totius corpo<g ref="char:EOLhyphen"/>ris in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, et it a fuit admiſſus Jetbie.</note> and adds, that the Proſelytes admitted into the <hi>Jewiſh Church,</hi> were baptiz'd, or as he words it, had <hi>their whole Bodies Immers'd or Dip'd.</hi> The <hi>Talmud,</hi> it ſeems, under the Title <hi>de Repudio,</hi> de<g ref="char:EOLhyphen"/>clares, that the <hi>Jews</hi> were initiated or entred into Covenant with God the ſame way; according to the ſenſe of two very Learned Men, Mr. <hi>Selden</hi> and Dr. <hi>Lightfoot,</hi> in the places I refer my Reader to in the Margin.<note place="margin">Selden de Syn. <hi>l.</hi> 1. <hi>c.</hi> 3. Horae <hi>Heb.</hi> in 3 <hi>Mat.</hi> 6.</note> But Mr. <hi>Pool</hi> do's not barely acknow<g ref="char:EOLhyphen"/>ledge the Antiquity of Baptizing by Dipping or Immerſion, but thought fit to declare, <hi>ex abundan<g ref="char:EOLhyphen"/>ti, that the cuſtom of pouring water on the party bap<g ref="char:EOLhyphen"/>tiz'd,
+<pb n="27" facs="tcp:64545:14"/>or ſprinkling with Water did but lately prevail in the Chriſtian Church.</hi>
+               <note place="margin">Pool <hi>in 1000 ſu<g ref="char:EOLhyphen"/>pra citato</hi> Seri<g ref="char:EOLhyphen"/>us <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liquanto in valuiſſe mos perfundendiſive aſpergendi.</note>
+            </p>
+            <p>I think it may with good reaſon be ſuppos'd, if not fully prov'd, that whilſt <hi>Baptiſteries,</hi> or places built and ſet apart for Baptiſm, were made ſo large as to receive not only the whole Body im<g ref="char:EOLhyphen"/>mers'd or dip'd, but ſeveral Perſons and both Sexes in <hi>diſtinct apartments,</hi> at the ſame time,<note place="margin">Durantus de ritibus Eccl. <hi>l.</hi> 1. <hi>c.</hi> 19.</note> as 'tis cer<g ref="char:EOLhyphen"/>tain they were; for <hi>Durandus mentions</hi> ſome, the Ruins whereof, were ſhown in his time at <hi>Piſa, Florence, Bononia</hi> and <hi>Parma.</hi> I ſay, whilſt theſe <hi>Baptiſteries</hi> were in uſe, <hi>Immerſion,</hi> without doubt continued to be the <hi>ordinary mode of Baptizing.</hi> Nay theſe <hi>Baptiſteries</hi> were ſo <hi>capacious</hi> that ſome us'd to bury their dead within their Walls,<note place="margin">14. Can. Concil. Autiſiodoren.</note> which was expreſly forbid by a Council held in the Year 578.</p>
+            <p>It began indeed to be a Queſtion about the mid<g ref="char:EOLhyphen"/>dle of the third Century, whether <hi>Baptiſm by Aſperſion</hi> might not be lawful and ſufficient, with<g ref="char:EOLhyphen"/>out a ſtrict obſervance of the former practice of <hi>Baptizing by Immerſion:</hi> And St. <hi>Cyprian,</hi>
+               <note place="margin">S. Cypr. Op. 76. Ep. ad Magnum</note> who flou<g ref="char:EOLhyphen"/>riſh'd about that time, has this very point under debate: By which enquiry 'tis as evident, as any thing can be; that <hi>Baptizing by aſperſion or ſprink<g ref="char:EOLhyphen"/>ling</hi> was then not an ordinary but an <hi>uncommon and rare practice;</hi> and the Novelty of it, was the reaſon for which ſome did ſcruple to admit it; and not only ſo, but made it a Queſtion,<note place="margin">Cent. Magd. in 3. Cent. de Bapt.</note> whether the parties who were ſo baptiz'd, were truly and pro<g ref="char:EOLhyphen"/>perly Chriſtians. How different then the Senti<g ref="char:EOLhyphen"/>ments and practice of the beſt and pureſt Ages were from the Opinion of <hi>Trepidantium Mallens,</hi>
+               <pb n="28" facs="tcp:64545:15"/>I think does in ſome meaſure appear by this brief account I have given.</p>
+            <p>What was it then could tempt this daring <hi>Epiſtle-Writer</hi> to repeat the Inſolent Challenge of of his <hi>Anonimous Author? Viz.</hi> to produce one place in Scripture where <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies to <hi>Plunge.</hi> Of whatever Party the Gentleman be, who firſt made the Challenge, he may upon <hi>Publick Notice</hi> given who <hi>he</hi> is, have all his own Dictionaries, Hiſtorians, and Commentators ready to anſwer his Challenge. And ſince Mr. <hi>Mallens</hi> pertly appears for the Gentleman's <hi>Second,</hi>
+               <note place="margin">Friendly Ep. <hi>p. 20.</hi>
+               </note> but wiſely reſolves not to be concluded by his <hi>Authors,</hi> (for he cares not what they ſay:) Having arm'd himſelf with ſo much <hi>Sufficiency</hi> and <hi>Obſtinacy</hi> as to reject the moſt convincing Arguments from all other Perſons but St. <hi>John</hi> himſelf, he may ſet his heart at reſt, St. <hi>John</hi> will have nothing to do with him, that Excellent Perſon was well enough underſtood by all his Followers; and ſo was St. <hi>Peter</hi> too; and their Followers took care to Pro<g ref="char:EOLhyphen"/>pagate the Doctrine they taught 'em, and the uſages they left 'em, but <hi>particularly the mode of Baptizing by Immerſion;</hi> inſomuch that it continu<g ref="char:EOLhyphen"/>ed, upon the matter, an <hi>Invariable</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Practice</hi> for two or three Centuries ſucceſively, as thoſe very <hi>Learned Men</hi> acknowledge, <hi>who for bet<g ref="char:EOLhyphen"/>ter Reaſons,</hi> than Mr. <hi>Malleus</hi> ever thought on, juſtifie and practiſe a different Mode in Bap<g ref="char:EOLhyphen"/>tiſm.</p>
+            <pb n="29" facs="tcp:64545:15"/>
+            <p>I have now Sir conſider'd the arguing part of Mr. <hi>Malleus</hi> his Epiſtle to you, and am ready to blame my ſelf for attempting to confute a Pam<g ref="char:EOLhyphen"/>phlet, which in every Page confutes it ſelf, and has, I make no queſtion been ſlighted by you upon the firſt reading: It may be expected I ſhould take ſome notice of his <hi>Scandalous Reflecti<g ref="char:EOLhyphen"/>ons, defaming Stories,</hi> and <hi>pitiful Witticiſms</hi> which he makes ſport with in every Page; but that's a Task ſit for no body, but one of his own Kidney and Complexion. He himſelf is the fitteſt Perſon to anſwer that part of <hi>his Epiſtle;</hi> to write a <hi>Satyr</hi> or <hi>Panegyrick</hi> upon his own Writings; and if he does it, I am ſure either of 'em will amount to the very ſame <hi>Lampoon.</hi>
+            </p>
+            <p>You find ſcatter'd up and down in every Page the Flowers of his Rhetorick, and his Complements, ſuch, as for inſtance, <hi>Purblind Brethren— Paper-headed Men—read their Scrible, and learn their Chatt. (a conſiderable Phraſe borrow'd from Old Mother Clito)</hi> You'll find him in the 2d Page very Comi<g ref="char:EOLhyphen"/>cally, and much like a Pedant, Schooling his Ma<g ref="char:EOLhyphen"/>ſters the <hi>Reverend Aſſembly of Divines,</hi> with an Objection which he ſays, is <hi>Ignorantly, <g ref="char:V">Ʋ</g>nlearnedly,</hi> and <hi>Fooliſhly</hi> urg'd; and immediately he runs riot into his beloved <hi>Moods</hi> and <hi>Tenſes.</hi> And in the very next Page, he comes to his good nature a<g ref="char:EOLhyphen"/>gain, and then the very ſame Perſons, are <hi>
+                  <g ref="char:V">Ʋ</g>nan<g ref="char:EOLhyphen"/>ſwerable <g ref="char:V">Ʋ</g>rgers, Great Worthies</hi> and <hi>Eagle-eyd-Men</hi> at Controverſie, that knock a Diſpute in the head, while you ſay what's this.</p>
+            <p>In the 7th and 8th Pages You have his moſt Learned Obſervations, with which his affected skill
+<pb n="30" facs="tcp:64545:16"/>in the <hi>Greek</hi> has furniſh'd him. And here you muſt take him, (if you can be ſo kind,) for a conſiderable Critick, or elſe you'll very much diſ<g ref="char:EOLhyphen"/>appoint him in his expectation.</p>
+            <p>In the 10th Page You are all of a ſuddain a<g ref="char:EOLhyphen"/>larum'd with his Diſcourſe of the <hi>Canon mount<g ref="char:EOLhyphen"/>ed up and beginning to roar,</hi>
+               <note place="margin">P. 10.</note> and I know not what: which would put one in expectation of ſome News from <hi>Livonia.</hi> But he immediately diſappoints you by <hi>telling you a Tale of a Tub and himſelf.</hi>
+               <note place="margin">P. 11.</note> 
+               <hi>Once upon a time I liv'd in a Town,</hi> &amp;c.</p>
+            <p>And in his 15th Page he falls foul, without any provocation given,<note place="margin">Dr. R. Mr. T.</note> upon Two Gentlemen, who value his Reproaches above his good Opinion, and would have been very ſenſible of the <hi>Scandal of his Commendation;</hi> as, I make no queſtion, thoſe Gentlemen are, whom he names in his 20th Page, and is mighty deſirous as if they had nothing elſe to do, to have the credit of being Anſwer'd by one of 'em.</p>
+            <p>After this comes on an uninterrupted medly of Idle Stories; and by the Texture it appears, every thing that came to hand, was made a part of his dull Epiſtle to you Mr. <hi>Keith,</hi> that a Man has very ſtrong preſumptions to believe Mr. <hi>Malleus</hi> to be that <hi>very Botcher</hi> which he mentions in the 25th Page, whom his very kind Neighbour the <hi>Vintner</hi> had <hi>ſubdu'd</hi> with the Fruit of the Vine, and made his Penn outrun his Wits.</p>
+            <pb n="31" facs="tcp:64545:16"/>
+            <p>Thus, Sir, for the reſpect I bear to Truth and your Perſon, both which I am ſure, are very much injur'd by this ſcurrilous bantering <hi>Epiſtle-Writer;</hi> I have briefly expos'd his <hi>Reaſons</hi> and his <hi>Rheto<g ref="char:EOLhyphen"/>rick;</hi> if it be pardondble, to give his way of <hi>Writing</hi> and <hi>Arguing</hi> thoſe <hi>venerable</hi> Names.</p>
+            <p>And upon the whole I think 'tis evident, that his <hi>Style,</hi> his <hi>Logick,</hi> and his <hi>Confidence</hi> are all of a piece, and all without Precedent, exactly calcu<g ref="char:EOLhyphen"/>lated for the Meridian of <hi>Moorfields:</hi> And had he done himſelf Juſtice, he had dated his Letter from one of the apartments in the College <hi>de gens inſenſez</hi> in his Neighbourhood; and then he had ſaved you the trouble of reading his Epiſtle, and me the trouble of making theſe Remarks.</p>
+            <closer>
+               <signed>I am Sir.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 5. l. 25. r. <hi>perpetuum,</hi> p. 6. l. 26. r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:64545:17"/>
+            <head>ADVERTISEMENT.</head>
+            <p>THE Conſiderations of <hi>Drexelius</hi> upon <hi>Death,</hi> in Three Parts. Firſt, Conſiderations upon Sickneſs and Death, for ſuch as are in Health. 2. Various Thoughts upon Death, for all the Circumſtances of Sick People. 3. The Divine Art of Dying Well; or a Dying Perſon's Prepara<g ref="char:EOLhyphen"/>tions for the other Life: Being Directions, Me<g ref="char:EOLhyphen"/>ditations, and Prayers, ſuited to that laſt and greateſt Occaſion of Life. Never before in <hi>Engliſh,</hi> now Tranſlated by a Fellow of the <hi>Royal Society.</hi> Sold by <hi>H. Walwyn</hi> at the <hi>Three Legs</hi> in the <hi>Poultry</hi> next the <hi>Old-Jury,</hi> where you may alſo have <hi>Drexelius</hi>'s Conſiderations on Eternity.</p>
+            <p>A Compleat Syſtem of <hi>Grammar Engliſh</hi> and <hi>Latin;</hi> wherein that moſt excellent Art is plainly, fully, and diſtinctly Taught, and practically man<g ref="char:EOLhyphen"/>nag'd thro' every part; in a Method which ren<g ref="char:EOLhyphen"/>ders it eaſie to all Capacities. Dedicated to the Duke of <hi>Glouceſter.</hi> Price 1 <hi>s.</hi> Sold by <hi>H. Walwyn.</hi>
+            </p>
+            <p>A Brief Expoſition of the <hi>Church-Catechiſm,</hi> with Proofs from Scriptures. By the Right Reverend Dr. <hi>John Williams,</hi> Lord Biſhop of <hi>Chicheſter.</hi> Edi<g ref="char:EOLhyphen"/>tion 9. Price 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>The Whole Duty of Man,</hi> put into familiar Verſe; for the greater Pleaſure and Benefit of the (Young) Reader. <hi>Price bound</hi> 6 d.</p>
+            <pb facs="tcp:64545:17"/>
+            <pb facs="tcp:64545:18" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
